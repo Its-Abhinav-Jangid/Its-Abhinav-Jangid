@@ -18,7 +18,7 @@ I'm a 15-year-old aspiring full stack developer from India. I began my programmi
 
 - Programming 💻
 - Chess ♟️
-- 100+ LeetCode questions solved (and counting!)
+- 100+ LeetCode questions solved (and counting!) [Visit Profile](https://leetcode.com/u/Abhinav_Jangid/)
 
 I'm always looking for new challenges, open-source opportunities, and ways to improve my skills. Let's connect!
 <!---
