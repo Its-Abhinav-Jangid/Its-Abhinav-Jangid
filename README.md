@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Abhinav!
 
-I'm a 15-year-old aspiring full stack developer from India. I began my programming journey in 2024, and since then, I've been passionate about building projects and learning new technologies every day.
+I'm a 14-year-old aspiring full stack developer from India. I began my programming journey in 2024, and since then, I've been passionate about building projects and learning new technologies every day.
 
 ### 🚀 What I Know
 
