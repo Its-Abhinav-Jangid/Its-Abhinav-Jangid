@@ -11,8 +11,8 @@ I'm a 14-year-old aspiring full stack developer from India. I began my programmi
 
 ### 🌟 Projects
 
-- **Expense Tracker App** – My proudest project so far! It's a web app that helps users manage and analyze their expenses with a modern UI and secure authentication.
-[Try the App on Vercel](https://expense-tracker-app-gamma-nine.vercel.app)
+- **Spenlys** – My proudest project so far! It's a web app that helps users manage and analyze their expenses with a modern UI and secure authentication.
+[Try the App Now](https://spenlys.com)
 
 ### 🧠 Interests & Achievements
 
