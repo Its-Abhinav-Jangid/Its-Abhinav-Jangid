@@ -11,7 +11,7 @@ I'm a 14-year-old aspiring full stack developer from India. I began my programmi
 
 ### 🌟 Projects
 
-- **Spenlys** - My proudest project so far! It's a web app that helps users manage and analyze their expenses with a modern UI and secure authentication.
+- **Spenlys** - My best project so far! It's a web app that helps users manage and analyze their expenses with a modern UI and secure authentication.
 [Try the App Now](https://spenlys.com)
 - **Mini-next-js** - A mini version of next js made with raw node.js, limited functionality, extremely lightweight. [See it here](https://github.com/Its-Abhinav-Jangid/mini-next-js)
 
